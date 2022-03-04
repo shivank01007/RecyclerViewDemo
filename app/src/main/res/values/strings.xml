@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="contactImage">Contact Image</string>
+    <string name="contactName">Name</string>
+    <string name="contactNumber">Number</string>
+<!--    <string name=""></string>-->
+</resources>
